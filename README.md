@@ -5,4 +5,4 @@ Information from "Applied Lattice Boltzmann Method" by A.A. Mohamad and "Impleme
 
 A comparison is also made to ([U. Ghia et al. (1982)](http://www.msaidi.ir/upload/Ghia1982.pdf))
 
-![Deviation from benchmark](https://i.imgur.com/3xSWxxP.png)
+![Deviation from benchmark](https://i.imgur.com/7Id6imK.png)
