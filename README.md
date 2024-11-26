@@ -3,6 +3,6 @@ MATLAB Lattice-Boltzmann implementation of the lid-driven cavity benchmark ([CFD
 
 Information from "Applied Lattice Boltzmann Method" by A.A. Mohamad and "Implementing the 2D square lattice Boltzmann method in Matlab" by René Fik ([Paper link](https://fiw.hs-wismar.de/storages/hs-wismar/_FIW/Forschungsgruppen/CEA/PhD_Projects/Implementing_Lattice-Boltzman_in_Matlab_ReneFink.pdf)).
 
-A comparison is also made to ([U. Ghia et al. (1982)](http://www.msaidi.ir/upload/Ghia1982.pdf))
+A comparison is also made to ([U. Ghia et al. (1982)](http://www.msaidi.ir/upload/Ghia1982.pdf)) for a 200x200 grid and 50,000 iterations.
 
-![Deviation from benchmark](https://i.imgur.com/7Id6imK.png)
+![Deviation from benchmark](https://i.imgur.com/zM4dPXc.png)
