@@ -5,4 +5,4 @@ Information from "Applied Lattice Boltzmann Method" by A.A. Mohamad and "Impleme
 
 A comparison is also made to ([U. Ghia et al. (1982)](http://www.msaidi.ir/upload/Ghia1982.pdf)) for a 200x200 grid and 50,000 iterations.
 
-![Deviation from benchmark](https://i.imgur.com/zM4dPXc.png)
+![Deviation from benchmark](https://i.imgur.com/yDs1kra.png)
